@@ -16,7 +16,7 @@ I am a final-year Information Technology student with a passion for software dev
 **Bachelor of Information Technology**  
 September 2021 - June 2025  
 
-- GPA: 3.5/4.0
+- GPA: 8.46/10
 - Notable courses: Java Programming, Data Structures and Algorithms, Web Development, Database, Computer Networks
 
 ### Personal Projects
