@@ -17,7 +17,7 @@ Mong muốn được làm việc trong môi trường năng động và sáng t�
 **Cử nhân Công nghệ Thông tin**  
 Tháng 09/2021 - Tháng 09/2025  
 
-- Điểm trung bình (GPA): 3.5/4.0
+- Điểm trung bình (GPA): 8.46/10
 - Các môn học nổi bật: Lập trình Java, Cấu trúc Dữ liệu và Giải thuật, Phát triển Web, Cơ sở Dữ liệu, Mạng Máy tính
 
 ### Dự án cá nhân
